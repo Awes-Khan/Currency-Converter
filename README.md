@@ -18,7 +18,7 @@ The **Currency Converter** is a simple yet powerful application that allows user
 - **Backend (optional)**: Node.js/Express (for fetching live exchange rates from external APIs)
 - **State Management**: React's `useState` hook
 - **Styling**: CSS (custom or using libraries like Bootstrap)
-- **API Integration**: Fetch real-time data using APIs such as [Open Exchange Rates](https://openexchangerates.org/) or [Fixer.io](https://fixer.io/).
+- **API Integration**: Fetch real-time data using APIs such as [Exchange Rates API](https://github.com/fawazahmed0/exchange-api).
 
 ## Setup Instructions
 
