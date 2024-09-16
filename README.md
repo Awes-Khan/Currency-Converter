@@ -25,13 +25,13 @@ The **Currency Converter** is a simple yet powerful application that allows user
 ### Prerequisites
 
 - Node.js and npm installed
-- Optional: API key from a currency exchange API provider (e.g., Open Exchange Rates, Fixer.io)
+- Optional: API key from a currency exchange API provider (e.g., Exchange Rates API)
 
 ### Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/Awes-Khan/Currency-Converter.git
    cd currency-converter
 2. **Install dependencies:**
    ```bash
